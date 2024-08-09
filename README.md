@@ -27,11 +27,11 @@ To run this project locally, follow these steps:
 
    ```bash
    cd [project-directory]
-3. **install Dependencies**
-
-   ```bash
-   npm install
-4. **install react hot toast**
+3. **install Dependencies and react hot toast**
 
    ```bash
    npm install react-hot-toast
+4. **run locally**
+
+   ```bash
+   npm run dev
