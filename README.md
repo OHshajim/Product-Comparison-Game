@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/OHshajim/Product-Comparison-Game.git
 2. **Navigate to the Project Directory**
 
    ```bash
