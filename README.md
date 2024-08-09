@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
    ```bash
    npm install react-hot-toast
-4. **run locally**
+4. **Open in Browser:**
 
-   ```bash
-   npm run dev
+  Go to http://localhost:5174 in your browser to see the component in action.
+
